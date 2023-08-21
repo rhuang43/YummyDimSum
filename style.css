@@ -130,8 +130,11 @@ hr {
 .description1 {
     position:absolute;
     border-radius: 25px;
-    height: 100px;
+    height: 110px;
     width: 10px;
     background-color: #C2262C;
+    color: black;
+}
+p{
     color: black;
 }
