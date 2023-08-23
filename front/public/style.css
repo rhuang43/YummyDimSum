@@ -1,0 +1,140 @@
+.Banner {
+    position: flex;
+    cursor: pointer;
+    height: 118px;
+}
+
+body {
+    background-color: white;
+}
+
+.button1 {
+    float: right;
+    cursor: pointer;
+    height: 118px;
+    width: 118px;
+    font-size: 16px;
+    border: white;
+    background-color: white;
+    color: #C2262C;
+    margin: 4px 10px;
+    border-radius: 8px;
+}
+
+.button1:hover {
+    background-color: #C2262C;
+    color: white;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.button2 {
+    float: right;
+    cursor: pointer;
+    height: 118px;
+    width: 118px;
+    font-size: 16px;
+    border: white;
+    background-color: white;
+    color: #C2262C;
+    margin: 4px 10px;
+    border-radius: 8px;
+}
+
+.button2:hover {
+    background-color: #C2262C;
+    color: white;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.button3 {
+    float: right;
+    cursor: pointer;
+    height: 118px;
+    width: 118px;
+    font-size: 16px;
+    border: white;
+    background-color: white;
+    color: #C2262C;
+    margin: 4px 10px;
+    border-radius: 8px;
+}
+
+.button3:hover {
+    background-color: #C2262C;
+    color: white;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+hr {
+    display: black;
+}
+
+.search-container {
+    position: absolute;
+    left: 40%;
+    top: 5%;
+}
+
+.top-nav {
+    /* top bar navigation */
+    position: fixed;
+}
+
+.Popular-Items {
+    background-color: #C2262C;
+    color: white;
+    height: 80px;
+    width: 900px;
+    position: flex;
+    margin: auto;
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 25px;
+}
+.row {
+    display: flex;
+    
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 15px;
+
+  }
+ .pop-item1 {
+    border: 3px solid #C2262C;
+    height: 300px;
+    width: 290px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pop-item2 {
+    border: 3px solid #C2262C;
+    height: 300px;
+    width: 290px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pop-item3 {
+    border: 3px solid #C2262C;
+    height: 300px;
+    width: 290px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.description1 {
+    position:absolute;
+    border-radius: 25px;
+    height: 110px;
+    width: 10px;
+    background-color: #C2262C;
+    color: black;
+}
+p{
+    color: black;
+}
